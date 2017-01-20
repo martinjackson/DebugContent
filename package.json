@@ -1,6 +1,7 @@
 {
   "name": "DebugContent",
   "version": "0.1.2",
+  "main": "DebugContent.js",
   "description": "DebugContent is simple [React] component to display an object's content as an HTML table.",
   "keywords": [
     "ReactJS",

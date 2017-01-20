@@ -1,6 +1,6 @@
-# DebugContent [![Travis][build-badge]][build] [![npm package][npm-badge]][npm]
+# DebugContent 
 
-<img src="/logo/vertical@2x.png" height="50"/>
+![DebugContent Logo](https://github.com/martinjackson/DebugContent/raw/04969e473f4b309a34cf700ce71eb92f9fe44f8c/logo/vertical%402x.png)
 
 DebugContent is simple [React] component to display an object's content as an HTML table.
 
@@ -13,7 +13,9 @@ DebugContent is simple [React] component to display an object's content as an HT
 }
 ```
 turns into
-<img src="/doc/example.png" height="100"/>
+
+<div style="display: inline-table;"><table style="border: 1px solid rgb(204, 204, 204);"><tbody><tr><td><strong><!-- react-text: 16 -->name<!-- /react-text --><!-- react-text: 17 -->:<!-- /react-text --></strong></td><td>Requested from React Front End</td></tr><tr><td><strong><!-- react-text: 22 -->host<!-- /react-text --><!-- react-text: 23 -->:<!-- /react-text --></strong></td><td>localhost:3001</td></tr><tr><td><strong><!-- react-text: 28 -->date<!-- /react-text --><!-- react-text: 29 -->:<!-- /react-text --></strong></td><td>{"y":2017,"m":1,"d":18}</td></tr><tr><td><strong><!-- react-text: 34 -->now<!-- /react-text --><!-- react-text: 35 -->:<!-- /react-text --></strong></td><td>1/18/2017, 2:23:02 PM</td></tr></tbody></table></div>
+
 
 [![Codecov][codecov-badge]][codecov]
 [![Discord][discord-badge]][discord]
